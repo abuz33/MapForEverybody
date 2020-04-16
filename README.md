@@ -1,8 +1,9 @@
-# Guest Map
+# MapForEveryBody
 
 * App detects users location (from browser or IP)
 * Guests of the website can leave a message
 * A pin will be added to the map with the users location and message
+* Will add a feature of finding routes
 
 ## TODO
 
@@ -27,8 +28,10 @@
   * [] GET /messages
 * [] Add pins to the map
 * [] Click a pin to see the message
+* [] Put a pin to destination end point
+* [] Create shortest route
 * [] DEPLOY!
-  * [] https://guestm.app
+  * [] Netlify
 * Refactor React app
   * seperate components
   * seperate file for API requests
